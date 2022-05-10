@@ -1,0 +1,22 @@
+.App {
+  font-family: times-new-roman;
+  text-align: center;
+}
+
+
+.container {
+  color: rgb(253, 0, 0);
+  text-align: center;
+  font-size: 40px;
+  background-color: white;
+}
+
+.button {
+  color: red;
+  background-color: white(90, 228, 148);
+  border-radius: 10px;
+  font-size: 50px;
+}
+
+
+
